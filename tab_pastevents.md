@@ -9,6 +9,32 @@ tags: Seoul
 
 ---
 
+## OWASP Seoul Chapter 2026년 8월 세미나
+  - Recording: 녹화본은 편집 후 공개 예정
+  - 주제#1: 침해사고 대응 현장에서 배우는 의사결정
+    - 발표자 : [유안지](https://www.linkedin.com/in/anji-yoo-601a96430)
+    - 발표자료 : [2026 Aug 유안지 - 침해사고 대응 현장에서 배우는 의사결정](./assets/files/2026 Aug 유안지 - 침해사고 대응 현장에서 배우는 의사결정.pdf){: target="_blank"}
+  - 주제#2: Knowledge based Context Aware AI SOC
+    - 발표자 : [조성환](https://www.linkedin.com/in/seonghwan-cho-040851126), [배경석](https://www.linkedin.com/in/경석-배-96655525a)
+    - 발표자료 : [2026 Aug 조성환 배경석 - Knowledge based Context Aware AI SOC](./assets/files/2026 Aug 조성환 배경석 - Knowledge based Context Aware AI SOC.pdf){: target="_blank"}
+  - 장소 후원: [디캠프](https://dcamp.kr/)
+  - 케이터링 후원: [로그프레소](https://logpresso.com/ko)
+
+
+
+## OWASP Seoul Chapter 2026년 7월 세미나
+  - Recording: 녹화본은 편집 후 공개 예정
+  - 주제#1: DEF CON에 참여하는 N가지 방법
+    - 발표자 : 김동현
+    - 발표자료 : [2026 Jul 김동현 - DEF CON에 참여하는 N가지 방법](./assets/files/2026 Jul 김동현 - DEF CON에 참여하는 N가지 방법.pdf){: target="_blank"}
+  - 주제#2: ROAD TO DEF CON: 글로벌 탑티어 보안 컨퍼런스 CFP 도장 깨기
+    - 발표자 : 김희찬
+    - 발표자료 : [2026 Jul 김희찬 - ROAD TO DEF CON 글로벌 탑티어 보안 컨퍼런스 CFP 도장 깨기](./assets/files/2026 Jul 김희찬 - ROAD TO DEF CON 글로벌 탑티어 보안 컨퍼런스 CFP 도장 깨기.pdf){: target="_blank"}
+  - 장소 후원: [디캠프](https://dcamp.kr/)
+  - 케이터링 후원: [Pinta AI](https://pinta.sh/)
+
+
+
 ## OWASP Seoul Chapter 2026년 6월 세미나
   - Recording: 녹화본은 편집 후 공개 예정
   - 주제#1: 당근이 파이썬 공급망 공격에 대응하는 방법

@@ -51,16 +51,16 @@ postal-code:
 | CFS · 스폰서 | 200만원 / 100만원 / 50만원 3단계 (홍보 테이블 및 로고 노출) | 슬롯 소진 시 마감 (상시 접수) | [신청하기](https://forms.gle/HuDCdb5auQ35hP1M6){: target="_blank"} |
 
 #### CFP 모집 주제
-  - AI for Security, Security for AI — LLM 보안, AI를 활용한 공격 및 방어 전략, AI 안전성과 윤리
-  - 커뮤니티 기여 — 보안 오픈소스 운영, 사내 세미나·워킹그룹·챕터 운영, 컨퍼런스 발표 및 콘텐츠 기여 경험
-  - 보안 업무 자동화 — AI를 활용한 자동화, 반복적인 보안 운영 업무 자동화 사례
-  - 애플리케이션 및 웹 보안 — OWASP Top 10, DevSecOps, 시큐어 코딩
-  - 클라우드 & 인프라 보안 — Cloud Native Security, Zero Trust, IAM
-  - 취약점 분석 및 리버싱 — 최신 취약점 연구, 익스플로잇, 위협 인텔리전스
-  - 거버넌스 관점의 보안 — 비 IT 인력의 안전한 IT 자원 사용을 위한 시스템·문화·관리·교육적 접근
-  - 커리어 · 조직 운영 · 리더십 — 보안 조직을 만들고 키운 이야기, 커리어 전환과 성장
+  - **AI for Security, Security for AI** — LLM 보안, AI를 활용한 공격 및 방어 전략, AI 안전성과 윤리
+  - **커뮤니티 기여** — 보안 오픈소스 운영, 사내 세미나·워킹그룹·챕터 운영, 컨퍼런스 발표 및 콘텐츠 기여 경험
+  - **보안 업무 자동화** — AI를 활용한 자동화, 반복적인 보안 운영 업무 자동화 사례
+  - **애플리케이션 및 웹 보안** — OWASP Top 10, DevSecOps, 시큐어 코딩
+  - **클라우드 & 인프라 보안** — Cloud Native Security, Zero Trust, IAM
+  - **취약점 분석 및 리버싱** — 최신 취약점 연구, 익스플로잇, 위협 인텔리전스
+  - **거버넌스 관점의 보안** — 비 IT 인력의 안전한 IT 자원 사용을 위한 시스템·문화·관리·교육적 접근
+  - **커리어 · 조직 운영 · 리더십** — 보안 조직을 만들고 키운 이야기, 커리어 전환과 성장
 
-발표자, 커뮤니티, 랩 진행자, 자원봉사자에게는 무료 참가권, 중식(도시락), 스태프 티셔츠, 네트워킹 애프터파티 초대 등의 혜택이 제공됩니다. 특정 제품·서비스를 직접 홍보하는 세션은 제한됩니다.
+발표자, 커뮤니티, 랩 진행자, 자원봉사자에게는 **무료 참가권, 중식(도시락), 스태프 티셔츠, 네트워킹 애프터파티 초대** 등의 혜택이 제공됩니다. 자세한 혜택은 [https://www.owaspkr.org/2026/](https://www.owaspkr.org/2026/){: target="_blank"} 를 참조해주세요.
 
 <br>
 
@@ -90,6 +90,12 @@ postal-code:
 <br>
 
 #### OWASP Korea Day 2026 (English)
-OWASP Korea Day 2026 will be held on **Saturday, November 28, 2026, 10:00-18:00** at SpaceShare Samseong Station Center (B1F, Daehwa Building, 20 Yeongdong-daero 96-gil, Gangnam-gu, Seoul), under the theme **"Security in the AI Era, Our Connection"**. The day brings together a main track in Regency Hall, community sessions, hands-on labs, and community & sponsor booths for 300+ attendees. Calls for papers, communities, labs, volunteers, and sponsors are open — see the table above for deadlines. Tickets start at KRW 5,000 (first early bird, opening September 15); on-site registration is not available. Full details: [https://www.owaspkr.org/2026/](https://www.owaspkr.org/2026/){: target="_blank"}
+  - **When:** Saturday, November 28, 2026, 10:00-18:00
+  - **Where:** SpaceShare Samseong Station Center (B1F, Daehwa Building, 20 Yeongdong-daero 96-gil, Gangnam-gu, Seoul)
+  - **Theme:** "Security in the AI Era, Our Connection"
+  - A main track in Regency Hall, community sessions, hands-on labs, and community & sponsor booths for 300+ attendees
+  - Calls for papers, communities, labs, volunteers, and sponsors are open — see the table above for deadlines
+  - Tickets start at KRW 5,000 (first early bird, opening September 15); on-site registration is not available
+  - Full details: [https://www.owaspkr.org/2026/](https://www.owaspkr.org/2026/){: target="_blank"}
 
 <br><br>

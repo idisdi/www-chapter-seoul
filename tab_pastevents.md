@@ -10,11 +10,10 @@ tags: Seoul
 ---
 
 ## OWASP Seoul Chapter 2026년 8월 세미나
-  - Recording: 녹화본은 편집 후 공개 예정
-  - 주제#1: 침해사고 대응 현장에서 배우는 의사결정
+  - 주제#1: 침해사고 대응 현장에서 배우는 의사결정 [녹화본-Youtube](https://www.youtube.com/watch?v=URSGmlisRuk)
     - 발표자 : [유안지](https://www.linkedin.com/in/anji-yoo-601a96430)
     - 발표자료 : [2026 Aug 유안지 - 침해사고 대응 현장에서 배우는 의사결정](./assets/files/2026 Aug 유안지 - 침해사고 대응 현장에서 배우는 의사결정.pdf){: target="_blank"}
-  - 주제#2: Knowledge based Context Aware AI SOC
+  - 주제#2: Knowledge based Context Aware AI SOC [녹화본-Youtube](https://www.youtube.com/watch?v=OsXga7qEJfc)
     - 발표자 : [조성환](https://www.linkedin.com/in/seonghwan-cho-040851126), [배경석](https://www.linkedin.com/in/경석-배-96655525a)
     - 발표자료 : [2026 Aug 조성환 배경석 - Knowledge based Context Aware AI SOC](./assets/files/2026 Aug 조성환 배경석 - Knowledge based Context Aware AI SOC.pdf){: target="_blank"}
   - 장소 후원: [디캠프](https://dcamp.kr/)
@@ -23,11 +22,10 @@ tags: Seoul
 
 
 ## OWASP Seoul Chapter 2026년 7월 세미나
-  - Recording: 녹화본은 편집 후 공개 예정
-  - 주제#1: DEF CON에 참여하는 N가지 방법
+  - 주제#1: DEF CON에 참여하는 N가지 방법 [녹화본-Youtube](https://www.youtube.com/watch?v=r81DrXAnO7I)
     - 발표자 : 김동현
     - 발표자료 : [2026 Jul 김동현 - DEF CON에 참여하는 N가지 방법](./assets/files/2026 Jul 김동현 - DEF CON에 참여하는 N가지 방법.pdf){: target="_blank"}
-  - 주제#2: ROAD TO DEF CON: 글로벌 탑티어 보안 컨퍼런스 CFP 도장 깨기
+  - 주제#2: ROAD TO DEF CON: 글로벌 탑티어 보안 컨퍼런스 CFP 도장 깨기 [녹화본-Youtube](https://www.youtube.com/watch?v=_pHTpBjOB-U)
     - 발표자 : 김희찬
     - 발표자료 : [2026 Jul 김희찬 - ROAD TO DEF CON 글로벌 탑티어 보안 컨퍼런스 CFP 도장 깨기](./assets/files/2026 Jul 김희찬 - ROAD TO DEF CON 글로벌 탑티어 보안 컨퍼런스 CFP 도장 깨기.pdf){: target="_blank"}
   - 장소 후원: [디캠프](https://dcamp.kr/)
@@ -36,11 +34,10 @@ tags: Seoul
 
 
 ## OWASP Seoul Chapter 2026년 6월 세미나
-  - Recording: 녹화본은 편집 후 공개 예정
-  - 주제#1: 당근이 파이썬 공급망 공격에 대응하는 방법
+  - 주제#1: 당근이 파이썬 공급망 공격에 대응하는 방법 [녹화본-Youtube](https://www.youtube.com/watch?v=lt8XUPLmudU)
     - 발표자 : [김수빈](https://www.linkedin.com/in/sudosubin), [나동희](https://www.linkedin.com/in/donghee-na-2b713b49/)
     - 발표자료 : [2026 June 김수빈 나동희 - 당근이 파이썬 공급망 공격에 대응하는 방법](./assets/files/2026 June 김수빈 나동희 - 당근이 파이썬 공급망 공격에 대응하는 방법.pdf){: target="_blank"}
-  - 주제#2: 토스의 공급망 보안 대응 전략
+  - 주제#2: 토스의 공급망 보안 대응 전략 [녹화본-Youtube](https://www.youtube.com/watch?v=CGK5hczuHKw)
     - 발표자 : 표상영
     - 발표자료 : [2026 June 표상영 - 토스의 공급망 보안 대응 전략](./assets/files/2026 June 표상영 - 토스의 공급망 보안 대응 전략.pdf){: target="_blank"}
   - 장소 후원: [디캠프](https://dcamp.kr/)

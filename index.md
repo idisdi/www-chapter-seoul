@@ -33,8 +33,7 @@ postal-code:
 
   - 티켓 1차 판매는 9월 15일 오픈 예정입니다.
   - 홍보 페이지 [티켓 구매](https://www.owaspkr.org/2026/#tickets){: target="_blank"} 부분을 참고해 주세요.
-  - 등록은 09:30부터 B1층 대형 라운지의 등록 데스크에서 진행되며, 오프닝은 10:00입니다.
-  - 캘린더에 미리 담아두기: [.ics 내려받기 (Apple · Outlook)](https://www.owaspkr.org/2026/events/calendar.ics){: target="_blank"}
+  - 캘린더에 미리 담아두기: [Google 캘린더에 추가](https://calendar.google.com/calendar/u/0/r/eventedit?text=OWASP+Korea+Day+2026+%E2%80%94+OWASP+Korea+Day+2026&dates=20261128T100000/20261128T180000&ctz=Asia/Seoul&details=AI+%EA%B7%B8%EB%A6%AC%EA%B3%A0+%EC%9A%B0%EB%A6%AC.+%EB%A9%94%EC%9D%B8+%EC%84%B8%EC%85%98,+%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0+%EC%84%B8%EC%85%98,+%ED%95%B8%EC%A6%88%EC%98%A8+%EB%9E%A9,+%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%C2%B7%EC%8A%A4%ED%8F%B0%EC%84%9C+%EB%B6%80%EC%8A%A4%EA%B0%80+%ED%95%A8%EA%BB%98+%EC%97%B4%EB%A6%BD%EB%8B%88%EB%8B%A4.%0A%0AB1%EC%B8%B5+%EB%8C%80%ED%98%95+%EB%9D%BC%EC%9A%B4%EC%A7%80%EC%9D%98+%EB%93%B1%EB%A1%9D+%EB%8D%B0%EC%8A%A4%ED%81%AC%EC%97%90%EC%84%9C+%EC%A0%91%EC%88%98+%ED%9B%84+%EB%AA%85%EC%B0%B0%EC%9D%84+%EB%B0%9B%EC%95%84%EC%A3%BC%EC%84%B8%EC%9A%94.+%EB%93%B1%EB%A1%9D%EC%9D%80+09:30%EB%B6%80%ED%84%B0,+%EC%98%A4%ED%94%84%EB%8B%9D%EC%9D%80+10:00%EC%9E%85%EB%8B%88%EB%8B%A4.%0A%0Ahttps://owaspkr.org/2026/events/owasp-korea-day-2026/&location=%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%89%90%EC%96%B4+%EC%82%BC%EC%84%B1%EC%97%AD%EC%84%BC%ED%84%B0,+%EC%84%9C%EC%9A%B8+%EA%B0%95%EB%82%A8%EA%B5%AC+%EC%98%81%EB%8F%99%EB%8C%80%EB%A1%9C96%EA%B8%B8+20+%EB%8C%80%ED%99%94%EB%B9%8C%EB%94%A9+B1F){: target="_blank"} · [.ics 내려받기 (Apple · Outlook)](https://www.owaspkr.org/2026/events/calendar.ics){: target="_blank"}
 
 <br>
 
@@ -60,7 +59,7 @@ postal-code:
   - **거버넌스 관점의 보안** — 비 IT 인력의 안전한 IT 자원 사용을 위한 시스템·문화·관리·교육적 접근
   - **커리어 · 조직 운영 · 리더십** — 보안 조직을 만들고 키운 이야기, 커리어 전환과 성장
 
-발표자, 커뮤니티, 랩 진행자, 자원봉사자에게는 **무료 참가권, 중식(도시락), 스태프 티셔츠, 네트워킹 애프터파티 초대** 등의 혜택이 제공됩니다. 자세한 혜택은 [https://www.owaspkr.org/2026/](https://www.owaspkr.org/2026/){: target="_blank"} 를 참조해주세요.
+발표자, 커뮤니티, 랩 진행자, 자원봉사자에게는 **무료 참가권, 중식(도시락), 스태프 티셔츠, 네트워킹 애프터파티 초대** 등의 혜택이 제공됩니다. 자세한 정보는 [공식 홈페이지](https://www.owaspkr.org/2026/){: target="_blank"}를 참조해주세요.
 
 <br>
 
